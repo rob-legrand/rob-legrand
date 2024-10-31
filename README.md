@@ -1,21 +1,7 @@
-## Howdy!
-
-<!--
-**rob-legrand/rob-legrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I enjoy doing research in computational social choice and other areas of artificial intelligence,
-programming simulations and visualizations,
-solving programming-contest-style problems and
-experimenting with various programming languages, especially those with a functional design.
+Howdy!&nbsp;
+I'm a retired professor of computer science.&nbsp;
+I enjoy
+- doing research in computational social choice and other areas of artificial intelligence,
+- programming simulations and visualizations,
+- solving programming-contest-style problems and
+- experimenting with various programming languages, especially those with a functional design.
