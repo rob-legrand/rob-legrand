@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy!
 
 <!--
 **rob-legrand/rob-legrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I enjoy doing research in computational social choice and other areas of artificial intelligence,
+programming simulations and visualizations,
+solving programming-contest-style problems and
+experimenting with various programming languages, especially those with a functional design.
