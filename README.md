@@ -5,3 +5,5 @@ I enjoy
 - programming games, simulations and visualizations,
 - solving programming-contest-style problems and
 - experimenting with various programming languages, especially those with a functional design.
+
+Currently I'm putting some older projects on GitHub to motivate myself to keep improving them.
