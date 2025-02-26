@@ -6,4 +6,5 @@ I enjoy
 - solving programming-contest-style problems and
 - experimenting with various programming languages, especially those with a functional design.
 
-Currently I'm putting some older projects on GitHub to motivate myself to keep improving them.
+Currently I'm putting some older projects on GitHub to motivate myself to keep improving them.&nbsp;
+Some of the old JavaScript code in particular is embarrassing&mdash;don't stare!
