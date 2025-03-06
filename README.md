@@ -8,4 +8,4 @@ I enjoy
 
 Currently I'm putting some older projects on GitHub to motivate myself to keep improving them.&nbsp;
 Some of the old JavaScript code in particular is embarrassing&mdash;please don't judge!&nbsp;
-See the `lights-out` project for an example of my modern JavaScript style.
+See the `pairwise-ordering` project for an example of my modern JavaScript style.
