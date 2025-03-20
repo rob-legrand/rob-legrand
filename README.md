@@ -7,5 +7,5 @@ I enjoy
 - experimenting with various programming languages, especially those with a functional design.
 
 Currently I'm putting some older projects on GitHub to motivate myself to keep improving them.&nbsp;
-Some of the JavaScript code I wrote many years ago is particularly embarrassing&mdash;please don't judge too quickly!&nbsp;
-See the `pairwise-ordering` and `county-cricket-colours` projects for examples of my modern JavaScript style.
+Some of the JavaScript code I wrote many years ago is particularly embarrassing,
+but the `pairwise-ordering` and `county-cricket-colours` projects are examples of my modern JavaScript style.
